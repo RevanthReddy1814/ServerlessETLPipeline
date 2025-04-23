@@ -30,6 +30,9 @@ s3://<your‑bucket>/
 │   └── orders.csv            ← upload here
 └── processed/
     └── filtered_orders.csv   ← Lambda output
+
+
+    
 ```
 
 Step‑by‑step setup
